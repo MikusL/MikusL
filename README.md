@@ -4,7 +4,7 @@
 
 I'm a C#/.NET Software Programmer.
 I'm constantly looking for new ways/opportunities to expand my knowledge about programming and problem solving.
-I also am very enthusiastic about learning new things and overcoming challenges.
+I am also very enthusiastic about learning new things and overcoming challenges.
 
 My contacts : luckansmikus@gmail.com | https://www.linkedin.com/in/mikus-luckans/
 
