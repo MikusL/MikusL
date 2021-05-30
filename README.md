@@ -17,6 +17,7 @@ My contacts : luckansmikus@gmail.com | https://www.linkedin.com/in/mikus-luckans
 ---
 
 My skills :  
+  
 Git  
 C#  
 .NET  
