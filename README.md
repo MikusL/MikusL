@@ -1,4 +1,4 @@
-### Hello https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif , my name is Mikus Luckāns.
+### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , my name is Mikus Luckāns.
 
 ---
 
