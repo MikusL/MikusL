@@ -18,13 +18,13 @@ My contacts : luckansmikus@gmail.com | https://www.linkedin.com/in/mikus-luckans
 
 My skills :  
   
-Git
-C#
-.NET
-Relational Databases & SQL
-HTTP & Web API Basics
-Unit Testing
-Test Driven Development
-Clean Code, SOLID
-Design Patterns
-HTML & CSS, VueJS, TypeScript & NodeJS basics
+- Git
+- C#
+- .NET
+- Relational Databases & SQL
+- HTTP & Web API Basics
+- Unit Testing
+- Test Driven Development
+- Clean Code, SOLID
+- Design Patterns
+- HTML & CSS, VueJS, TypeScript & NodeJS basics
